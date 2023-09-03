@@ -135,7 +135,7 @@ const TicTacToe = () => {
       >
         Restart
       </button>
-      <p>Made by Harsh with ❤️</p>
+      <p className="mt-5">Made by Harsh with ❤️</p>
     </main>
   );
 };
