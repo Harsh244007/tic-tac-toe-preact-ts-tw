@@ -121,7 +121,7 @@ const TicTacToe = () => {
           name="boardSize"
           min="1"
           max="10"
-          className="px-2 py-1 border rounded w-16"
+          className="px-2 py-1 border rounded w-16 bg-transparent"
           value={boardCount}
           onChange={handleBoardSizeChange}
         />
